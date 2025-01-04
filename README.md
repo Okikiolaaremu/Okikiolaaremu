@@ -5,7 +5,7 @@ WORK EXPERIENCE
 
 EXPERTISE TECHNOLOGIES;
 POWERBI;
-Power query, data transformation and loading, DAX (Data Analysis and Expression), data modelling and calculation, data visualization.
+- Power query, data transformation and loading, DAX (Data Analysis and Expression), data modelling and calculation, data visualization.
 
 ADVANCED EXCEL;
 Data Manipulation,data cleaning, data loading and transformation, dashboard.
