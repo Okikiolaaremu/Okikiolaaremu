@@ -1,6 +1,12 @@
 _**ABOUT ME**_
 - 👋 Hi, I am Okikiola Aremu, I am a dedicated Data Analyst with over three years in transforming complex data into actionable data insights.
 - I am skilled in leveraging tools like SQL, Advanced Excel, PowerBI, i specializein analysing large datasets, creating data-driven strategies and delivering clear, impactful visualizations to support decision making. My expertise spans across industries such as marketing, sales amongst many other fields, with an indepth knowledge in the FMCG industry.
+- **CERTIFICATIONS**
+- Google Data Analytics Professional Certificate (June 2024).
+
+- **EDUCATIONAL QUALIFICATION**
+B.sc Business Administration and Entrepreneurship Studies
+M.sc Organisational Behaviour
 
 **_WORK EXPERIENCE_**
 Job Title: Data Analyst
@@ -12,6 +18,12 @@ Job Title: Supervisor
 Company: 02 Chops and Grills
 Date: Oct 2022 – June 2023
 Job desrciption: I was responsible for managing, guiding, and supporting a team of employees to achieve performance objectives, maintain high productivity levels, and ensured adherence to company policies and safety standards. As a supervisor, i was the first point of contact for employees regarding operational matters and I collaborated with senior management to implement strategies for continuous improvement.
+
+**ACHIEVEMENTS:**
+• 3.45 CGPA Second class honours (upper division), Kwara State University.
+• 3.56 CGPA Master of Science in Organisational Behaviour, University of Lagos.
+• Employee of the Year at 02 Chops and Grills (December 2022).
+• Most Participatory student, National Association of Business and Entrepreneurship Students, Kwara State University Chapter (2016).
 
 **SKILLS**
 **POWERBI**
@@ -29,6 +41,7 @@ I am well versed in the collection,management, analysing, reporting and visualiz
 
 **VISUALISATION**
 Apt story telling, effective communication.
+
 - 👀 I’m interested in analysing data to aid in better decision making
 - 🌱 I’m currently learning more in Date Science
 - 💞️ I’m looking to collaborate on improvement and job placeement
