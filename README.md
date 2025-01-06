@@ -17,12 +17,12 @@ M.sc Organisational Behaviour
 
 Job Title: Data Analyst
 Company: 02 Chops and Grills
-Date:July 2023 – Till date
+Date:Nov 2024 – Till date
 Job description: As a Data Analyst, I am embedded with the responsibility for collecting, processing, and analyzing large sets of data to help the organization make informed business decisions. My role involves interpreting complex data, providing actionable insights, and generating reports that support strategic goals and improve operational efficiency. I as well interact closely with the various departments of the firm, such as marketing, finance, operations, and Human resource, to drive data-driven decision-making.
 
 Job Title: Supervisor
 Company: 02 Chops and Grills
-Date: Oct 2022 – June 2023
+Date: July 2023 – Oct 2024
 Job desrciption: I was responsible for managing, guiding, and supporting a team of employees to achieve performance objectives, maintain high productivity levels, and ensured adherence to company policies and safety standards. As a supervisor, i was the first point of contact for employees regarding operational matters and I collaborated with senior management to implement strategies for continuous improvement.
 
 **ACHIEVEMENTS:**
