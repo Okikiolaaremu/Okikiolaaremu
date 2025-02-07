@@ -1,5 +1,5 @@
 # ABOUT ME
-- 👋 Hi, I am Okikiola Aremu, I am a dedicated Data Analyst with over three years in transforming complex data into actionable data insights.
+- 👋 _Hi_, I am Okikiola Aremu, I am a dedicated Data Analyst with over three years in transforming complex data into actionable data insights.
 - I am skilled in leveraging tools like SQL, Advanced Excel, PowerBI, and R programming. I specialize in analysing large datasets, creating data-driven strategies and delivering clear, impactful visualizations to support decision making. My expertise spans across industries such as marketing, sales amongst many other fields, with an indepth knowledge in the FMCG industry.
 - ## Theme: jekyll-theme-minimal
 
