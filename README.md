@@ -7,8 +7,8 @@
 - Google Data Analytics Professional Certificate (June 2024).
 
 - ## EDUCATIONAL QUALIFICATION
-B.sc Business Administration and Entrepreneurship Studies
-M.sc Organisational Behaviour
+- B.sc Business Administration and Entrepreneurship Studies
+- M.sc Organisational Behaviour
 
 ### WORK EXPERIENCE
 - **Job Title:** Data Analyst
