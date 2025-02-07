@@ -21,6 +21,16 @@
 - **Date:** July 2023 – Oct 2024
 - **Job desrciption:** I was responsible for managing, guiding, and supporting a team of employees to achieve performance objectives, maintain high productivity levels, and ensured adherence to company policies and safety standards. As a supervisor, i was the first point of contact for employees regarding operational matters and I collaborated with senior management to implement strategies for continuous improvement.
 
+- **Job Title:** Lead Operation Officer
+- **Company:** 02 Chops and Grills
+- **Date:** Nov 2019 – April 2023
+- **Job desrciption:** While i was the lead operation officer, i was able to lead a team into Creating and put into action operational plans to boost productivity and earnings. Likewise, i efficiently managed resources, expenses, and budgets to meet the financial goals of the organisation. I also saw to the implementation of a new inventory management system which in turn resulted in a 20% increase in inventory turnover (Nov 2020). Also, i was able to achieve an overall increased in sales revenue by 25% as a result of new product lines and marketing initiatives (Apr 2021).
+
+- **Job Title:** Warehouse Manager
+- **Company:** Insight Publishers Limited.	
+- **Date:** Feb 2018 – Oct 2018
+- **Job desrciption:** During my operations as the warehouse Manager, i was able to lead a team into Creating and put into action operational plans to boost productivity and earnings. Likewise, i efficiently managed resources, expenses, and budgets to meet the financial goals of the organisation. I also saw to the implementation of a new inventory management system which in turn resulted in a 20% increase in inventory turnover (Nov 2020). Also, i was able to achieve an overall increased in sales revenue by 25% as a result of new product lines and marketing initiatives (Apr 2021).
+
 ## ACHIEVEMENTS:
 - • 3.45 CGPA Second class honours (upper division), Kwara State University.
 - • 3.56 CGPA Master of Science in Organisational Behaviour, University of Lagos.
