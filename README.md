@@ -1,5 +1,5 @@
 # ABOUT ME
-- 👋 _Hi_, I am Okikiola Aremu, I am a dedicated Data Analyst with over three years in transforming complex data into actionable data insights.
+- 👋 _Hi_, I am Okikiola Aremu, I am a dedicated Data and Business Analyst with over two years in transforming complex data into actionable data insights.
 - I am also a experienced in management roles and with years of practical experience as both an organizational and social behaviorist.
 - I am skilled in leveraging tools like SQL, Advanced Excel, PowerBI, and R programming. I specialize in analysing large datasets, creating data-driven strategies and delivering clear, impactful visualizations to support decision making. My expertise spans across industries such as marketing, sales amongst many other fields, with an indepth knowledge in the FMCG industry.
 - As an organizational behaviorist and management personnel, I specialize in understanding how individuals and groups behave within organizational settings. My work involves studying the dynamics of organizational culture, leadership, communication, decision-making, motivation, and conflict management. In achieving my functional objectives, I apply psychological principles and research to analyze and improve organizational effectiveness, employee performance, and overall productivity.
@@ -7,12 +7,12 @@
 
 - ## CERTIFICATIONS
 - Google Data Analytics Professional Certificate (June 2024).
-
+- Digital World Tech Academy Data Analysis course (Dec. 2024)
 - ## EDUCATIONAL QUALIFICATION
 - B.sc Business Administration and Entrepreneurship Studies
 - M.sc Organisational Behaviour
 
-### WORK EXPERIENCE
+## WORK EXPERIENCE
 #### **Job Title:** Data Analyst
 - **Company:** 02 Chops and Grills
 - **Date:** Nov 2024 – Till date
@@ -34,8 +34,8 @@
 - **Job desrciption:** During my operations as the warehouse Manager, I Controlled inventory levels to minimize surplus and guaranteed there was enough supply for manufacturing requirements. I also supervised the distribution, storage, and receiving of printing supplies and goods. I achieved an increased order fulfilment accuracy to 87% by using automated picking systems and barcode scanning (Jun 2018).
 
 ## ACHIEVEMENTS:
-- • 3.45 CGPA Second class honours (upper division), Kwara State University.
-- • 3.56 CGPA Master of Science in Organisational Behaviour, University of Lagos.
+- • 3.45 CGPA Second class honours (upper division) **B.sc**, Kwara State University.
+- • 3.56 CGPA Master of Science in Organisational Behaviour **M.sc**, University of Lagos.
 - • Employee of the Year at 02 Chops and Grills (December 2023).
 - • Most Participatory student, National Association of Business and Entrepreneurship Students, Kwara State University Chapter (2016).
 
@@ -47,6 +47,9 @@ Data Manipulation,data cleaning, data loading, data exploration and transformati
 
 ### SQL
 Data cleaning, data transformation,data query, data manipulation.
+
+### R
+Data cleaning, data transformation,data query, data manipulation, data exploration, data visualization, data interpretation.
 
 ### EXPERTISE TECHNOLOGIES
 Data visualisation, SQL, PowerBI, Advanced MIcrosoft Excel,R programming, insights reports, problem solver, critical thinker, team-goal oriented , time management, adaptability and collaborative team player.
@@ -60,7 +63,7 @@ Apt story telling, effective communication.
 - 💞️ I am looking to collaborate on improvement and job placeement
 - 📫 How to reach me ...okikiolaaremu02@gmail.com
 - 😄 Pronouns: ...He
-- ⚡ Fun fact: ...Life is simple, enjoy it while it lasts 
+- ⚡ Fun fact: ...Life is simple, enjoy it while it lasts
 
 <!---
 Okikiolaaremu/Okikiolaaremu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
