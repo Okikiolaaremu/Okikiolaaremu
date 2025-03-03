@@ -59,11 +59,9 @@ I am well versed in the collection,management, analysing, reporting, exploring,p
 Apt story telling, effective communication.
 
 - 👀 I am interested in analysing data to aid in better decision making
-- 🌱 I am currently learning more in Date Science
+- 🌱 I am currently learning more in Date Science via intensive training on Python classes
 - 💞️ I am looking to collaborate on improvement and job placeement
 - 📫 How to reach me ...okikiolaaremu02@gmail.com
-- 😄 Pronouns: ...He
-- ⚡ Fun fact: ...Life is simple, enjoy it while it lasts
 
 <!---
 Okikiolaaremu/Okikiolaaremu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
